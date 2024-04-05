@@ -1,4 +1,6 @@
 
+![alt text](https://github.com/hikmah76/modulpark7PDW/blob/main/Screenshot%202024-04-05%20145749.png?raw=true)
+
 video.addEventListener("click", function video(){
     
     alert("ini video Red Velvet");
